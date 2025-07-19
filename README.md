@@ -46,7 +46,7 @@ This project provisions a complete Kubernetes monitoring setup using Terraform a
 
 ## Architecture Diagram
 
-![K8s Monitoring Architecture](./architecture-diagram.png)
+<img width="1102" height="716" alt="Eks-monitoring-diagram" src="https://github.com/user-attachments/assets/ab0aea16-598b-4d98-963a-db35e8c94047" />
 
 ---
 
@@ -263,14 +263,22 @@ We haven't configured custom alerts or receivers for Alertmanager in this projec
 
 ## Output
 
+<img width="1920" height="970" alt="Grafana-homepage" src="https://github.com/user-attachments/assets/cc495b67-4cbc-498b-9372-3b9d85dccacd" />
 
+<img width="1920" height="970" alt="Data-sources" src="https://github.com/user-attachments/assets/a4bd35b5-83fd-495f-a661-0d9c31b89d13" />
+
+<img width="1920" height="959" alt="prometheus-metrics" src="https://github.com/user-attachments/assets/facbf06a-6bd1-49b1-b6fd-8bfdfb6e2f76" />
+
+<img width="1920" height="954" alt="Prometheus-graph-metrics" src="https://github.com/user-attachments/assets/15b58e37-20c1-4023-b6a6-32ad9d1028b2" />
+
+---
 
 ## About Me
 
 Hey there! I’m Sushmitha, an aspiring DevOps Engineer passionate about automating infrastructure and streamlining deployments.
-I enjoy working with tools like AWS, Terraform, Jenkins, Docker, Kubernetes, and more.
 
 Currently, I’m building hands-on projects to master the DevOps lifecycle — from infrastructure as code to CI/CD and monitoring.
+
 Always eager to learn, experiment, and take on new challenges in the cloud and DevOps world.
 
 **Let’s connect!**
